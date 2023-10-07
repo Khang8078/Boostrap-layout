@@ -1,2 +1,2 @@
 # Boostrap-layout
-Built the first project by using Boostrap only 
+Built the first project by using Boostrap
